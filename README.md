@@ -1,7 +1,6 @@
 
 1. Instala las dependencias de JavaScript (frontend):
    ```
-   cd preuba-frontend
    npm install
    npm run dev
    ```
